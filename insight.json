@@ -121,8 +121,7 @@
 			"order": [
 				"9dae0d02-9f1e-4c0a-ae6b-db1431d55fb4",
 				"231081ee-800a-4be0-86b8-61c3f7f4ace5",
-				"b9c8cbb5-a90d-4874-9184-160b854928be",
-				"24c75b44-f2b8-4372-a54f-afd50f78409e"
+				"b9c8cbb5-a90d-4874-9184-160b854928be"
 			],
 			"folders_order": []
 		},
@@ -2673,23 +2672,6 @@
 			"folder": "921f10be-87de-4426-a69d-d4e1e74df5a9",
 			"rawModeData": "{\"object\":\"company\",\"curPage\":1,\"pageSize\":20,\"search\":\"{\\\"company.and\\\":[{\\\"investment.part_org.id\\\":[{\\\"name.or\\\":[\\\"腾讯\\\"]}]}]}\",\"data\":\"{\\\"sort\\\":[{\\\"field\\\":\\\"stat_investment.latest_finance_amount\\\",\\\"param\\\":[\\\"asc\\\"]}]}\"}",
 			"headers": "Content-Type: application/json\nCookie: {{Cookie}}\n",
-			"pathVariables": {}
-		},
-		{
-			"id": "24c75b44-f2b8-4372-a54f-afd50f78409e",
-			"name": "本次导出统计",
-			"url": "",
-			"description": "",
-			"data": null,
-			"dataMode": null,
-			"headerData": [],
-			"method": "GET",
-			"pathVariableData": [],
-			"queryParams": [],
-			"auth": null,
-			"events": [],
-			"folder": "cb8f8b3d-a233-4ead-8515-60eedfd37ae6",
-			"headers": "",
 			"pathVariables": {}
 		},
 		{
